@@ -75,7 +75,7 @@ def calc_temps(start, end=None):
 
 # run the app
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
 
 
 #################################################
